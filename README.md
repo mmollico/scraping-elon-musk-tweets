@@ -1,2 +1,2 @@
-# scraping-elon-musk-tweets
-Scraping Elon Musk's tweets using the twitter the Tweepy package in python.
+# scraping-tweets-tweepy
+Scraping Elon Musk's tweets from twitter using the Tweepy package in python.
